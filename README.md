@@ -3,7 +3,7 @@
 ## Get Started Termux
 ```bash
 pkg update && pkg upgrade
-pkg install python
+pkg install python git
 git clone https://github.com/rioagungpurnomo/crypcet
 pip install -r requirements.txt
 python main.py
